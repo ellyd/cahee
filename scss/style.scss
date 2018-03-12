@@ -457,6 +457,7 @@ body{
 		width: 500px;
 		outline: none;
 		cursor: pointer;
+		transition: border-color .25s ease;s
 		&::-webkit-input-placeholder {
 			color: #fff;	
 			font-weight: 300;
